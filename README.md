@@ -17,8 +17,7 @@
 
 ## 📹 Live Demo
 
-<div align="center">
-  [![PROJECT DEMO](images/VIDEO-2026-05-04-13-11-40.mp4)](images/VIDEO-2026-05-04-13-11-40.mp4)
+  [PROJECT DEMO](images/VIDEO-2026-05-04-13-11-40.mp4)
   <br>
   <em>Full autonomous mission: Search → Detect → Align → Collect → Return-to-Home</em>
 </div>
