@@ -11,15 +11,10 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-Pending-b31b1b?style=for-the-badge&logo=arxiv)]()
 
-</div>
-
----
-
-## 📹 Live Demo
-
   [PROJECT DEMO](images/VIDEO-2026-05-04-13-11-40.mp4)
   <br>
   <em>Full autonomous mission: Search → Detect → Align → Collect → Return-to-Home</em>
+  
 </div>
 
 ---
@@ -45,7 +40,6 @@
 
 ## 📚 Table of Contents
 
-- [Live Demo](#-live-demo)
 - [Executive Summary](#-executive-summary)
 - [System Architecture](#-system-architecture)
 - [Hardware](#-hardware)
