@@ -11,9 +11,11 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-Pending-b31b1b?style=for-the-badge&logo=arxiv)]()
 
-  [PROJECT DEMO](images/VIDEO-2026-05-04-13-11-40.mp4)
-  <br>
-  <em>Full autonomous mission: Search → Detect → Align → Collect → Return-to-Home</em>
+ ## 📹 Live Demo
+
+[![USV Autonomy Demo - Click to Watch](https://img.youtube.com/vi/nTWDvMKvO5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=nTWDvMKvO5k)
+
+*Click the image to watch the full demo — the USV detects, approaches, and collects floating debris autonomously in a controlled pool environment.*
   
 </div>
 
